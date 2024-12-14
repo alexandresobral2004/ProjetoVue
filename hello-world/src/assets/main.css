@@ -1,0 +1,24 @@
+.componente{
+    border: 1px solid #d8d8d8;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+
+}
+.componente button{
+    margin-top: 10px;
+    background-color: rgb(21, 212, 18);
+    color: white;
+    width: 40%;
+}
+.input {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border:1px solid #d8d8d8;
+    border-radius: 5px;
+    font-size: 24px;
+
+}

@@ -29,4 +29,8 @@ const decrementar = () => {
 const mudarNome = () => {
   nome.value = 'Mariana';
 };
+
+const mudarNome2 = () => {
+  nome.value = 'Angélica';
+};
 </script>
